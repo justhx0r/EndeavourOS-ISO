@@ -1,5 +1,20 @@
 # BASE
-
+haveged
+jitterentropy-rngd
+archstrike-keyring
+archstrike-mirrorlist
+blackarch-keyring
+blackarch-mirrorlist
+tor
+tirdad
+tirdad-dkms
+lkrg-dkms-git
+freetube-bin
+whatsapp-nativefier
+debtap
+lokinet-bin
+nvm
+systemd-resolvconf
 ## Base system
 iptables-nft
 base
